@@ -1,0 +1,5 @@
+1. check Ingred.afterSave
+2. check SiteCtrl.actionFront
+	2.1 remove business-logic from view (front.php)
+	2.2  separate MVC logic
+3. add helper function for matching Bludos
